@@ -1,2 +1,7 @@
 # Knock-Knock
-Knock-Knock is a MCQ (Multiple Choice Questions) based Unity 3D Game
+Knock-Knock is a MCQ (Multiple Choice Questions) based Unity 3D Game.
+The Game consists of 4 Walls for each question with only one wall being breakable for the particular
+question and the other walls being solid. The current question script consists of 45+ questions related to
+topic of DBMS(Data Base Management System) but are changeable with slight modifications in the Questions script.
+The Questions are random and no question is repeated in one playthrough. User can decide the number of questions
+one wants to solve at a time.
