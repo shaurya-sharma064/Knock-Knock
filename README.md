@@ -10,3 +10,20 @@ one wants to solve at a time.
 Download the main branch if u want to play the game.
 
 Download the unity branch if u want to change the game files like Questions.cs in order to play game with different questions.
+
+
+Screenshots of Game:
+
+# Main Menu:
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(66).png)
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(68).png)
+
+
+# Gameplay:
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(69).png)
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(71).png)
+
+# Losing and Winning Screen:
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(70).png)
+![](https://github.com/ShaSha-Codes/Knock-Knock/blob/main/Screenshots/Screenshot%20(72).png)
+
