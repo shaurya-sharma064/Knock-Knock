@@ -5,3 +5,8 @@ question and the other walls being solid. The current question script consists o
 topic of DBMS(Data Base Management System) but are changeable with slight modifications in the Questions script.
 The Questions are random and no question is repeated in one playthrough. User can decide the number of questions
 one wants to solve at a time.
+
+
+Download the main branch if u want to play the game.
+
+Download the unity branch if u want to change the game files like Questions.cs in order to play game with different questions.
